@@ -8,7 +8,7 @@ Here are some common types:
 + ```char``` stores one character
 + ```int``` stores a whole number
 + ```double``` stores a decimal number
-+ ```bool``` stores a true or false
++ ```bool``` stores either true or false
 
 Check out [Program.cs](https://github.com/fslcoding/Data_Types_CS/blob/main/Program.cs) to see examples of these types.
 
