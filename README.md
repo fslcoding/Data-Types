@@ -4,19 +4,19 @@ A data type ( commonly refered to as just '**_type_**' ), specifies the size of 
 
 Here are some common types:
 
-+ ```string```, stores many characters
-+ ```char```, stores one character
-+ ```int```, stores a whole number
-+ ```double```, stores a decimal number
-+ ```bool```, stores a true or false
++ ```string``` stores many characters
++ ```char``` stores one character
++ ```int``` stores a whole number
++ ```double``` stores a decimal number
++ ```bool``` stores a true or false
 
 Check out [Program.cs](https://github.com/fslcoding/Data_Types_CS/blob/main/Program.cs) to see examples of these types.
 
 Some less common types include:
 
-+ ```short```, half the size of ```int```
-+ ```long```, double size of ```int```
-+ ```float```, floating point number
++ ```short``` half the size of ```int```
++ ```long``` double size of ```int```
++ ```float``` floating point number
 
 ### Converting between types
 
