@@ -87,7 +87,7 @@ To learn more about these, check out their respective repos.
 **_Level Three_**
 + Use a TryParse to do _level one_
 
-**_Level Four ( Super Hard!)_**
+**_Level Four ( Super Hard! )_**
 + Create a user struct 
 + Read in user information
 + Populate struct with info
