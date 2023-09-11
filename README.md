@@ -20,8 +20,7 @@ Some less common types include:
 
 ### Converting between types
 
-To convert between types, you use ```Convert``` class.
-You use the **_Dot Syntax_** on the Convert class.
+To convert between types, you use the ```Convert``` class, and you also need to use the ``` . ``` syntax.
 
 Here is a basic example:
 
