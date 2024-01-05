@@ -4,11 +4,11 @@ A data type ( commonly refered to as just '**_type_**' ), specifies the size of 
 
 Here are some common types:
 
-+ ```string``` stores many characters
-+ ```char``` stores one character
-+ ```int``` stores a whole number
-+ ```double``` stores a decimal number
-+ ```bool``` stores either true or false
++ ```string``` stores many characters, eg. `"Hello, World!"`
++ ```char``` stores one character, eg. `'H'`
++ ```int``` stores a whole number, eg. `5`
++ ```double``` stores a decimal number, eg. `5.5`
++ ```bool``` stores either true or false, eg. `true`
 
 Check out [Program.cs](https://github.com/fslcoding/Data_Types_CS/blob/main/Program.cs) to see examples of these types.
 
