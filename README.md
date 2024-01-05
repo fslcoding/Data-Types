@@ -24,7 +24,7 @@ To convert between types, you use the ```Convert``` class, and you also need to 
 
 Here is a basic example:
 
-```
+```csharp
 string var1 = "5";
 
 int var2 = Convert.ToInt32(var1);
@@ -43,21 +43,21 @@ To create your own type, you can make a struct, class, or record
 
 
 
-```
+``` csharp
 struct Car {
     public string CarName;
     public string Colour;
 }
 ```
 
-```
+``` csharp
 class Car {
     string CarName;
     string Colour;
 }
 ```
 
-```
+``` csharp
 public record Car(string CarName, string Colour);
 ```
 
